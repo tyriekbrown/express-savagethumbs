@@ -1,0 +1,95 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: lightgrey;
+  width: 80%;
+  margin-left: 150px;
+}
+.wholeThang{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: white;
+  width: 100%;
+}
+.topOfHeader h1{
+  font-size: 100px;
+  font-family: 'Chela One', cursive;
+  margin-left: 700px;
+}
+.topOfHeader h3{
+  text-decoration: underline;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 35px;
+  margin-left: 1000px;
+}
+iframe{
+  height: 400px;
+  width: 50%;
+}
+.line{
+  display: inline;
+  word-spacing: 50px;
+  float: left;
+}
+header{
+  width: 100%;
+  height: 300px;
+}
+.leftside{
+  float: left;
+  width: 37%;
+  height: 300px;
+  background-image: url("../img/vegetarian.jpg");
+}
+.rightside{
+  width: 23%;
+  height: 300px;
+  float: right;
+  background-image: url("../img/heart.jpg");
+}
+img{
+  height: 200px;
+}
+.textbox{
+  border: 5px solid grey;
+  width: 49%;
+  height: 810px;
+  float: right;
+}
+.thisBox{
+  border: 1px solid black;
+  height: 200px;
+  width: 550px;
+}
+#msgBox{
+  width: 500px;
+  height: 30px;
+}
+textarea{
+  width: 100%;
+  height: 800px;
+  float: right;
+}
+.text-center{
+  margin:auto;
+  background-image: url("../img/veggie.webp");
+  background-repeat: no-repeat;
+  /* border: 2px solid black; */
+  width: 40%;
+  height: 300px;
+  float: left;
+}
+.lgout{
+  float: right;
+  color: black;
+  font-size: 30px;
+  font-style: italic;
+  margin-right: 20px;
+}
+h1{
+  font-style: italic;
+  font-size: 40px;
+}
+.col-sm-6{
+
+}
